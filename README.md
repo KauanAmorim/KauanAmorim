@@ -83,9 +83,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
 </div>
-
-###
-
-<img href="https://raw.githubusercontent.com/KauanAmorim/KauanAmorim/blob/output/snake.svg" alt="Snake animation" />
-
-###

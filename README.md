@@ -1,4 +1,8 @@
-<p align="left">Olá Meu nome é Kauan Amorim da Silva.<br><br>Eu sou Back-end Developer com alguns conhecimentos de Front-end e seguindo para o rumo de DevOps.<br>Estou sempre em busca de melhorar meus conhecimentos e aprimorar cada vez mais a organização dos meus códigos e a estrutura do projeto em si, estou com mais de 4 anos de experiência na área. <br><br>Atualmente estudo todo o ecossistema JavaScript/NodeJS além de Clean Code, SOLID, etc... Conhecimentos que eu sempre detalho um pouco mais nas experiências de trabalho abaixo.<br><br>Agora algumas coisas particulares sobre mim é que estou sempre escutando uma música ou um podcast, amo café, sempre gosto de discutir sobre diversos assuntos da cultura pop e me relaciono bem com meus colegas, seja do trabalho, quanto faculdade.</p>
+<p align="left">
+  Bem-vindo ao meu perfil. <br>
+  Sempre lendo algo, ansioso com algum joguinho, feliz com alguma série e motivado para ir ao cinema. <br>
+  No momento correndo atrás da senioridade e resolvendo qualquer tipo de problema.
+</p>
 
 ###
 

@@ -2,9 +2,9 @@
 
 Engenheiro de Software Backend de São Paulo, Brasil, apaixonado por construir aplicações escaláveis, explorar novas tecnologias e resolver problemas complexos.
 
-- 🔭 Atualmente trabalho na GFT Technologies migrando sistemas monolíticos no GCP para microserviços na AWS.
+- 🔭 Atualmente trabalho na GFT Technologies.
 - 🌱 Estou estudando Engenharia de Software, Arquitetura de Software, DevOps e Cloud.
-- ⚡ Curiosidade: gamer de Nintendo Switch e cinéfilo em busca de novas recomendações.
+- ⚡ Curiosidade: Amo café, sou PC gamer e jogo Nintendo Switch nas horas vagas e amo cinema e música.
 
 ## 🛠️ Habilidades Técnicas
 
